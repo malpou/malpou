@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p0lle" alt="p0lle" /> </p>
 
-- 🔭 I’m currently working on **Results for live video production**
+- 🔭 I’m currently working on **results for live video production**
 
 - 🌱 I’m currently learning **Vue**
 
