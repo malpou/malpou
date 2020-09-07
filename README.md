@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **results for live video production**
 
-- 🌱 I’m currently learning **Vue, TypeScript & firebase**
+- 🌱 I’m currently learning **Vue, TypeScript & 🔥firebase**
 
 - 📫 How to reach me **Malthe@Grundtvigsvej.dk**
 
