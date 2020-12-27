@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malpou" alt="malpou" /> </p>
 
-- 🔭 I’m currently working on **results for live video production**
+- 🔭 I’m currently working on a**control description training platform**
 
-- 🌱 I’m currently learning **Vue & TypeScript**
+- 🌱 I’m currently learning **Reactjs & TypeScript**
 
 - 📫 Reach out to me on **discord** (malpou#6072)
 
