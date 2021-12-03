@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on a **next.js application built on the idea behind [borgerforslag.dk](https://www.borgerforslag.dk/)**
 
-- 🌱 I’m currently learning **Reactjs & TypeScript**
+- 🏢 I’m working for **[Swiipe](https://swiipe.com/)**
 
