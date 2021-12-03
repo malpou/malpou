@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malpou" alt="malpou" /> </p>
 
-- 🔭 I’m currently working on a**control description training platform**
+- 🔭 I’m currently working on a **next.js application built on the idea behind [borgerforslag.dk](https://www.borgerforslag.dk/)**
 
 - 🌱 I’m currently learning **Reactjs & TypeScript**
 
-- 📫 Reach out to me on **discord** (malpou#6072)
