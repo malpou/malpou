@@ -3,7 +3,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malpou" alt="malpou" /> </p>
 
-- 🔭 I’m currently working on a **next.js application built on the idea behind [borgerforslag.dk](https://www.borgerforslag.dk/)**
-
-- 🏢 I’m working for **[Swiipe](https://swiipe.com/)**
+- 🏢 I’m working for **[TracTrac](https://tractrac.com/)**
 
