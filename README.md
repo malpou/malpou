@@ -1,5 +1,6 @@
 <h2 align="center">Hello there 👋 my name is Malthe</h2>
-<h3 align="center">I'm a platform engineer, runner & climber from Denmark</h3>
+<h3 align="center">Tech Lead, runner & climber from Denmark</h3>
 
-- 🏢 I’m working for **[DR](https://www.dr.dk/)**
-- 🥈 Build and now maintaining the Danish Orienteering Federations result database **[O-Result](https://o-result.dk/)**
+- 🏢 Tech Lead at **[DR](https://www.dr.dk/)**, the Danish Broadcasting Corporation
+- 🧭 Built and now maintaining **[O-Result](https://o-result.dk/)**, the Danish Orienteering Federation's result database
+- 🏓 Made an online multiplayer Pong you can play at **[ping.malpou.io](https://ping.malpou.io)**
