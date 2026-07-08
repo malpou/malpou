@@ -3,3 +3,4 @@
 
 - 🏢 Tech Lead at **[DR](https://www.dr.dk/)**, the Danish Broadcasting Corporation
 - 🧭 Built and now maintaining **[O-Result](https://o-result.dk/)**, the Danish Orienteering Federation's result database
+- 🗳️ Made **[poll.malpou.io](https://poll.malpou.io/)**, a tiny no-login date poll for deciding when suits everyone
