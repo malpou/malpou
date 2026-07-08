@@ -3,4 +3,3 @@
 
 - 🏢 Tech Lead at **[DR](https://www.dr.dk/)**, the Danish Broadcasting Corporation
 - 🧭 Built and now maintaining **[O-Result](https://o-result.dk/)**, the Danish Orienteering Federation's result database
-- 🏓 Made an online multiplayer Pong you can play at **[ping.malpou.io](https://ping.malpou.io)**
